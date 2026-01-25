@@ -6,7 +6,7 @@ I recently completed a hands-on Active Directory lab where I deployed Windows Se
 
 This lab provides a complete, step-by-step walkthrough for building a small-scale enterprise network in a secure virtual setup.
 
-# Lab Overview:
+# Lab Overview
 
 Installation of Windows Server 2025 and Windows 10
 
@@ -20,7 +20,7 @@ Validation of Group Policy, DHCP leases, and DNS name resolution
 
 Configuration of Remote Access and NAT to provide internet access through the Domain Controller
 
-# Key Takeaways:
+# Key Takeaways
 
 Designing and implementing a structured IP addressing scheme
 
